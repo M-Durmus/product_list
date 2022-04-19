@@ -8,7 +8,7 @@ export default [
     },
     {
       id: 2,
-      name: 'Erciyes Ofis',
+      name: 'Saltanat Ofis',
       price: "11000$",
       image:
         'https://aligulermobilya.com/wp-content/uploads/2021/04/erciyes_ofis-800x533.jpg',
